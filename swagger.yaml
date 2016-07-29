@@ -11,7 +11,7 @@ info:
   contact:
     email: apiteam@swagger.io
   x-logo:
-    url: 'https://rebilly.github.io/ReDoc/petstore-logo.png'
+    url: 'https://apis.guru/petstore_extended/petstore-logo.png'
   license:
     name: Apache 2.0
     url: 'http://www.apache.org/licenses/LICENSE-2.0.html'
